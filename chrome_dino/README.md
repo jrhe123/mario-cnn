@@ -20,3 +20,5 @@
 ### mac
 
 brew install tesseract
+
+chrome://dino/
